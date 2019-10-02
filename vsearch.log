@@ -1,0 +1,6 @@
+ImmutableMultiDict([('phrase', 'przeszukaj i wyrzuc log'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36|{'e', 'u', 'i', 'a', 'o'}
+ImmutableMultiDict([('phrase', 'drugi'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36|{'u', 'i'}
+ImmutableMultiDict([('phrase', 'trzeci'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36|{'e', 'i'}
+ImmutableMultiDict([('phrase', 'Wyszukaj mnie!'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0|{'i', 'a', 'u', 'e'}
+ImmutableMultiDict([('phrase', 'Raz jeszcze'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0|{'a', 'e'}
+ImmutableMultiDict([('phrase', 'No dobra, teraz czas na sprawdzenie logów'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0|{'a', 'i', 'o', 'e'}
